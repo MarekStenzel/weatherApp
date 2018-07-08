@@ -1,4 +1,4 @@
-Weather application build on Node.JS
+Weather application built on Node.JS
 
 Version 1.0 beta
 
