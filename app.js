@@ -48,8 +48,3 @@ axios.get(geocodeUrl).then((response) => {
     } else
         console.log(e.message);
 });
-
-
-
-// cbb165d16dea47a6d025ed982dd527e9
-
